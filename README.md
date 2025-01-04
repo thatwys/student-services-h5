@@ -16,3 +16,42 @@ A versatile HTML5 platform designed to cater to the diverse needs of internation
 - Inspired by the needs of international students navigating university life abroad.
 - Special thanks to our development and support teams for their dedication and hard work.
 
+## How To Run?
+
+- Install Node.js on https://nodejs.org/en
+
+- Clone the project
+
+- run cmd
+
+  ```
+  cd demand-form
+  ```
+
+- run 
+
+  ```
+  npm install
+  ```
+
+  then run
+
+  ```
+  npm install ant-design-vue@4.x axios
+  ```
+
+  then run
+
+  ```
+  npm run dev
+  ```
+
+- you can see
+
+  ```
+  VITE v4.x.x ready in xxx ms
+    ➜ Local: http://localhost:5173/
+    ➜ Network: use --host to expose
+  ```
+
+- going to the browser and open the address to test
